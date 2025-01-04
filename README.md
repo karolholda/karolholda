@@ -34,8 +34,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 ## Python Projects
 
-- [Car Sales Analysis](https://github.com/PatrykPaul/Car-sales-analysis)
-- [Shop Customers Analysis](https://github.com/PatrykPaul/Shop-customers-analysis)
+- [Shop Customers Analysis](https://github.com/karolholda/Python-for-Data-Analysis/tree/main)
 
 
 
