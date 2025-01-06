@@ -43,13 +43,10 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 - [PizzeriaDB](https://github.com/karolholda/SQL-for-Data-Analysis/tree/main/2%20SQL%20Project%20for%20Data%20Analysis%20Pizzeria)
 
 ## Power BI Projects
-- [Car Sales](https://github.com/PatrykPaul/Car_sales)
-- [Shop Sales](https://github.com/PatrykPaul/Shop-Sales)
+- [Pizzeria Inventory and Management Project](https://github.com/PatrykPaul/Car_sales)
 
 ## Excel Projects
-- [Restaurant Sales Analysis](https://github.com/SnajperHS/Restaurant-Sales-Insights)
-- [FLAMEX Business Analysis](https://github.com/SnajperHS/Flamex)
-
+- [Restaurant Sales Analysis]
 
 ## 📫 How to Reach Me
 
