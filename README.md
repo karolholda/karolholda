@@ -46,7 +46,7 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 - [Pizzeria Inventory and Management](https://github.com/karolholda/Power-BI-for-Data-Analysis/tree/main/Pizzeria%20Inventory%20and%20Management%20Project)
 
 ## Excel Projects
-- [Coffee Shop Sales]
+- [Coffee Shop Sales](https://github.com/karolholda/Excel-for-Data-Analysis/tree/main/Coffee%20Shop%20Project)
 
 ## 📫 How to Reach Me
 
