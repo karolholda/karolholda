@@ -36,9 +36,6 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 
 - [Shop Customers Analysis](https://github.com/karolholda/Python-for-Data-Analysis/tree/main)
 
-
-
-
 ## SQL Projects
 - [PizzeriaDB](https://github.com/karolholda/SQL-for-Data-Analysis/tree/main/2%20SQL%20Project%20for%20Data%20Analysis%20Pizzeria)
 
@@ -48,6 +45,9 @@ I’m a data analytics student with a strong focus on helping businesses turn da
 ## Excel Projects
 - [Coffee Shop Sales](https://github.com/karolholda/Excel-for-Data-Analysis/tree/main/Coffee%20Shop%20Project)
 
+## R Programming
+- [Chickens Feed](https://github.com/karolholda/R-for-Data-Analysis/tree/main/Chickens%20Project)
+  
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-ho%C5%82da-58976833b/)
